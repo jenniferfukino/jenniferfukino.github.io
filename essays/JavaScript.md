@@ -20,7 +20,7 @@ use the language. JavaScript is no exception, I continue to repeat modules in Fr
 ## Training for this Moment
 
 The Na Wahine O Ke Kai, normally occurring on the fourth Sunday of September, is a 41-mile women's distance canoe race with participants ranging in age from 16 - 60+. On the day 
-of the race, over 60 canoes can seen in Hale O Lono Harbor, on the island of Moloka'i, pointing the nose of their canoes toward Waikiki Beach. These individuals have spent over
+of the race, over 60 canoes can be seen in Hale O Lono Harbor, on the island of Moloka'i, pointing the nose of their canoes toward Waikiki Beach. These individuals have spent over
 2000 hours of rigorous training preparing their minds and bodies for this race, so they can perform at their optimal level. This 41-mile race tests tests your physical strength,
 endurance, determination and mental toughness. Depending on conditions, some teams will not even make it out of the harbor.
 
