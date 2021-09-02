@@ -23,8 +23,7 @@ The Na Wahine O Ke Kai, normally occurring on the fourth Sunday of September, is
 of the race, over 60 canoes can be seen in Hale O Lono Harbor, on the island of Moloka'i, pointing the nose of their canoes toward Waikiki Beach. These women have spent over
 2000 hours of rigorous training preparing their minds and bodies for this race so that they can perform at their optimal level. This 41-mile race tests your physical strength, endurance, determination and mental toughness. Depending on conditions, some teams will not even make it out of the harbor.
 
-Software engineering, for me, is very similar to participating in the Na Wahine O Ke Kai. Software engineering is very intimidating and take months, maybe even years to be good
-at. But with the right training, it is possible to be successful no matter your age or physical ability at the specific moment you make the decision to go for it.
+Software engineering, for me, is very similar to participating in the Na Wahine O Ke Kai. Software engineering is very intimidating and can take months, maybe even years to be good at. But with the right training, it is possible to be successful no matter your age or physical ability at the specific moment you make the decision to go for it.
 
 The Athletic Software Engineering pedagogy is very rigorous, its beast mode training, but if you want to perform at you peak then you must get uncomfortable. And boy am I 
 uncomfortable. It makes me question, did my other classes truly prepare me for this moment? Am I starting at a disadvantage already? What should I have been doing to prepare? I 
