@@ -20,9 +20,8 @@ use the language. JavaScript is no exception, I continue to repeat modules in Fr
 ## Training for this Moment
 
 The Na Wahine O Ke Kai, normally occurring on the fourth Sunday of September, is a 41-mile women's distance canoe race with participants ranging in age from 16 - 60+. On the day 
-of the race, over 60 canoes can be seen in Hale O Lono Harbor, on the island of Moloka'i, pointing the nose of their canoes toward Waikiki Beach. These individuals have spent over
-2000 hours of rigorous training preparing their minds and bodies for this race, so they can perform at their optimal level. This 41-mile race tests tests your physical strength,
-endurance, determination and mental toughness. Depending on conditions, some teams will not even make it out of the harbor.
+of the race, over 60 canoes can be seen in Hale O Lono Harbor, on the island of Moloka'i, pointing the nose of their canoes toward Waikiki Beach. These women have spent over
+2000 hours of rigorous training preparing their minds and bodies for this race so that they can perform at their optimal level. This 41-mile race tests your physical strength, endurance, determination and mental toughness. Depending on conditions, some teams will not even make it out of the harbor.
 
 Software engineering, for me, is very similar to participating in the Na Wahine O Ke Kai. Software engineering is very intimidating and take months, maybe even years to be good
 at. But with the right training, it is possible to be successful no matter your age or physical ability at the specific moment you make the decision to go for it.
