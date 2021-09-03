@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: image/mikololou.png
+image: images/mikololou.png
 title: Kaʻahupāhau
 permalink: projects/kaahupahau
 date: 2021-09-02
