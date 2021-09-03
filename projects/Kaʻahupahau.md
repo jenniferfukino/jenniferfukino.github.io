@@ -23,5 +23,5 @@ devises a plan to get him drunk on ʻawa and kill him.
 
 <img class="ui medium left floated rounded image" src="../images/upena.jpg">
    
-With a tight deadline, this project gave me the opportunity to test: my efficiency with Adobe Illustrator, ability to generate ideas quickly, and successfuly produce professional artwork that satisfied the desire of the leader. 
+With a tight deadline, of three weeks, this project gave me the opportunity to test: my efficiency with Adobe Illustrator, ability to generate ideas quickly, and successfuly produce professional artwork that satisfied the desire of the leader. 
 
