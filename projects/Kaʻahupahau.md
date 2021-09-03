@@ -3,7 +3,7 @@ layout: project
 type: project
 image: image/mikololou.jpg
 title: Kaʻahupahau
-permalink: projects/kaʻahupahau
+permalink: projects/kaahupahau
 date: 2021-09-02
 labels:
   - Adobe Illustrator
