@@ -10,6 +10,12 @@ labels:
 summary: I created a video project that utilized comic book illustrations of the story called Ka Heʻe a me Ka ʻIole.
 ---
 
+<div class="ui small rounded images">
+   <img class="ui image" src="../images/hee_1.png">
+   <img class="ui image" src="../images/hee_2.png">
+   <img class="ui image" src="../images/hee_3.png">
+    </div>
+
 In ʻŌlelo Hawaiʻi 202, we were given the project to create a video of the story of the octopus and the rat. The requirement for this 
 project was that we needed some sort of imagery and that the storytelling must be done completely in ʻōlelo Hawaiʻi. 
 
