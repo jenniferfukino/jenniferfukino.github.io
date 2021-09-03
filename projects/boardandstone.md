@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: images/papa.png
 title: Board and Stone
 permalink: projects/boardandstone
 date: 2021-09-02
