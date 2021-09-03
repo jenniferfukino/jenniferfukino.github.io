@@ -10,8 +10,6 @@ labels:
 summary: Professional portfolio pieces I created to be included into a video project for Hawaiʻi Papa O Ke Ao cultural series.
 ---
 
-# He Ukana Aloha Kā Kīlauea
-
 <img class="ui medium right floated rounded image" src="../images/mikololou.jpg">
 
 He Ukana Aloha Kā Kīlauea was a yearlong cultural webinar series where each of the ten UH campuses were given the opportunity to share
