@@ -9,6 +9,7 @@ labels:
   - Adobe Illustrator
 summary: Professional portfolio pieces I created to be included into a video project for Hawaiʻi Papa O Ke Ao cultural series.
 ---
+
 # He Ukana Aloha Kā Kīlauea
 
 <img class="ui medium right floated rounded image" src="../images/mikololou.jpg">
