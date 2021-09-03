@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/iole.png
 title: Ka Heʻe a me Ka ʻIole
 permalink: projects/ka_hee
 date: 2021-09-02
