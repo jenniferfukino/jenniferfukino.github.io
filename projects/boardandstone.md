@@ -23,4 +23,4 @@ on our board and stone. This helped us disconnect from all the noise in our live
 this task. In the end, our determination and commitment not only to our project but to eachother produced a beautiful board and four poi 
 pounders.
 
-<img class="ui medium right floated rounded image" src="../images/board_stone.png">
+<img class="ui medium left floated rounded image" src="../images/board_stone.png">
