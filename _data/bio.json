@@ -79,40 +79,41 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Central Theater Arts Academy",
+      "position": "Costume Design Instructor",
+      "website": "https://centraltheatreartsacademy.org/",
+      "startDate": "December 2017",
+      "endDate": "March 2019",
+      "summary": "Oversee the execution of costumes by students for musicals and plays",
       "highlights": [
-        "",
-        ""
+        "Once on This Island",
+        "Beauty and the Beast",
+        "RENT"
       ]
     },
     {
-      "company": "",
-      "position": "",
+      "company": "Banana Republic Factory Store",
+      "position": "Interim General Manager",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "June 2016",
+      "endDate": "December 2016",
+      "summary": "Responsible for creating the conditions for success in all aspects of the store's business",
       "highlights": [
-        "",
-        ""
+        "Analyze and forecast sales budget",
+        "Project sales volume"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "Banana Republic Factory Store",
       "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Associate Manager",
+      "startDate": "August 2016",
+      "endDate": "July 2017",
+      "summary": "Responsible for supporting in supporting the GM in creating conditions for success in all aspects of the store's business",
       "highlights": [
-        "",
+        "Advocated minimum wage increase",
         ""
       ]
     },
