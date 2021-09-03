@@ -11,7 +11,6 @@ summary: Professional portfolio pieces I created to be included into a video pro
 ---
 
 <img class="ui medium right floated rounded image" src="../images/mikololou.jpg">
-<img class
 
 #He Ukana Aloha Kā Kīlauea 
 
