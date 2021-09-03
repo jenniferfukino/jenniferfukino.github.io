@@ -13,7 +13,7 @@ summary: Professional portfolio pieces I created to be included into a video pro
 <img class="ui medium right floated rounded image" src="../images/mikololou.jpg">
 <img class
 
-# He Ukana Aloha Kā Kīlauea 
+#He Ukana Aloha Kā Kīlauea 
 
 He Ukana Aloha Kā Kīlauea was a yearlong cultural webinar series where each of the ten UH campuses were given the opportunity to share
 the mele, hula, and moʻolelo that is specific to their location. This past May, I was one of the featured artists from Leeward Community 
