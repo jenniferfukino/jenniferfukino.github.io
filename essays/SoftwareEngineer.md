@@ -16,7 +16,7 @@ its transformation into another silhouette. As the next five looks individually 
 by the metmorphose of each look. Hussein Chalayan was able to use microchips to create his innovative designs. If microchips can be added
 to garments, what else can be done? Software engineering provides a highway of different paths and right now I'm still undecided. I am 
 interested in designing a 3D body scanning app to help customers find their perfect fit, an A.I. program that allows anyone to design and 
-manufacture their own clothes, and technology infused textiles, is this even possible? Like clothing sketches in my drawing book, I just 
+manufacture their own clothes, and technology infused textiles. Are these even possible? Like clothing sketches in my drawing book, I just 
 need to understand how to draft the pattern so I can cut and sew.  
 
 # In five, four, three...
