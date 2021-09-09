@@ -29,12 +29,12 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "fashion design",
       "keywords": [
       ]
     },
     {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
@@ -42,7 +42,12 @@
       "name": "artificial intelligence",
       "keywords": [
       ]
-    }
+    },
+    {
+      "name": "graphic design",
+      "keywords": [
+      ]
+    } 
   ],
   "skills": [
     {
@@ -84,11 +89,11 @@
       "website": "https://centraltheatreartsacademy.org/",
       "startDate": "2017-10-01",
       "endDate": "2019-03-20",
-      "summary": "Oversee the execution of costumes by students for musicals and plays",
+      "summary": "Oversee the design and construction of costumes by highschool students for musicals and plays",
       "highlights": [
         "Once on This Island",
         "Beauty and the Beast",
-        "RENT"
+        "RENT",
       ]
     },
     {
@@ -100,50 +105,25 @@
       "summary": "Responsible for creating the conditions for success in all aspects of the store's business",
       "highlights": [
         "Analyze and forecast sales budget",
-        "Project sales volume"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Banana Republic Factory Store",
-      "website": "",
+        "Project sales volume",
+        "Organize workflow",
+        "Monitor employee productivity and provide feedback and coaching"
+      ] 
+    },
+     {
+      "company": "Banana Republic Factory Store",
       "position": "Associate Manager",
+      "website": "",
       "startDate": "2016-08-01",
       "endDate": "2017-06-08",
       "summary": "Responsible for supporting in supporting the GM in creating conditions for success in all aspects of the store's business",
       "highlights": [
-        "Advocated minimum wage increase",
-        ""
+        "Analyze and forecast sales budget",
+        "Project sales volume",
+        "Organize workflow",
+        "Monitor employee productivity and provide feedback and coaching"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": "",
-    },
-    {
-      "title": "",
-      "date":"",
-      "awarder":"",
-      "summary": "",
-    }
+    } 
   ],
   "references": [
     {
