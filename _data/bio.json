@@ -29,22 +29,27 @@
   },
   "interests": [
     {
-      "name": "fashion design",
+      "name": "Fashion Design",
       "keywords": [
       ]
     },
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "graphic design",
+      "name": "Graphic Design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "ʻŌlelo Hawaiʻi",
       "keywords": [
       ]
     } 
