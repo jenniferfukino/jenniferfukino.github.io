@@ -9,6 +9,7 @@ labels:
 ---
 <img class="ui medium left floated rounded image" src="../images/dial-up.png">
 
+
 With no prior experience or knowledge of JavaScript, I did what any person would do in this day and age. I Googled it! And what I
 learned is that JavaScript initially began as a scripting language to validate client side input in the time of dial-up connection. 
 JavaScript has evolved into a programming language that is used to build modern web applications, enable dynamic interactivity and 
@@ -29,3 +30,5 @@ with the click of the timer my mind tends to go blank. But I believe in the proc
 am able to solve the problem in the given time and have a designated 2-hour study slot every day. The Athletic Software Engineering 
 Pedagogy allows me a way to measure my comprehension of the information and my ability to access and successfully apply what I 
 learned. I am able to reflect on my strengths and weaknesses and quickly assess what I really need to focus on. 
+
+"Image from https://www.pinterest.com/pin/82120393182861987/"
