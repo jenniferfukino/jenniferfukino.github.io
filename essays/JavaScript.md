@@ -1,33 +1,29 @@
 ---
 layout: essay
 type: essay
-title: JavaScript-"ing" In Progress
+title: JavaSript-"ing" in Progress
 date: 2021-09-01
 labels: 
   - Software Engineering
   - Learning
 ---
+With no prior experience or knowledge of JavaScript, I did what any person would do in this day and age. I Googled it! And what I
+learned is that JavaScript initially began as a scripting language to validate client side input in the time of dial-up connection. 
+JavaScript has evolved into a programming language that is used to build modern web applications, enable dynamic interactivity and 
+special effects on web pages, and much more. 
 
-## Say "Yes" to the Dress
+## Flexibilty
 
-People's opinion about JavaScript is much like choosing a wedding gown. You have those who love it, those who hate it, and those who are indifferent because they don't want to
-hurt your feelings. I am enjoying the freedom JavaScript provides compared to other languages like: Java and C++. I feel maybe if we learned JavaScript earlier it could allow
-students to gain more confidence in coding and then refine their skills with stricter languages. But is it because of this rebellious nature of JavaScript that we don't get to
-learn it earlier? Or is it purely because it is deemed an easy language? So judgment is passed swiftly. But I'll leave it to the powers that be to decide JavaScripts position in 
-the hierarchy of Computer Science. What is easy to some, is not always easy for all? Learning a new language does take me time to understand and gain the confidence to properly
-use the language. JavaScript is no exception, I continue to repeat modules in FreeCodeCamp to get more practice speaking JavaScript, but I will say "Yes" to the dress.
+For many, JavaScript seems to be a sensitive topic. There are those who love it, those who hate it, and those who are indifferent.
+Learning the history of JavaScript gave me a deeper appreciation for how far this programming language has come. Compared to stricter
+languages like Java, JavaScript's syntax flexibility in allowing variables to be broadly declared using let or const allows for
+faster coding. Having only a week experience with JavaScript, I am already excited about learning this new language. But with any new language, it is a process and will take some time in getting used to this new flexiblity and language specific coding styles. 
 
-## Training for this Moment
+## What the WOD!
 
-The Na Wahine O Ke Kai, normally occurring on the fourth Sunday of September, is a 41-mile women's distance canoe race with participants ranging in age from 16 - 60+. On the day 
-of the race, over 60 canoes can be seen in Hale O Lono Harbor, on the island of Moloka'i, pointing the nose of their canoes toward Waikiki Beach. These women have spent over
-2000 hours of rigorous training preparing their minds and bodies for this race so that they can perform at their optimal level. This 41-mile race tests your physical strength, endurance, determination and mental toughness. Depending on conditions, some teams will not even make it out of the harbor.
-
-Software engineering, for me, is very similar to participating in the Na Wahine O Ke Kai. Software engineering is very intimidating and can take months, maybe even years to be good at. But with the right training, it is possible to be successful no matter your age or physical ability at the specific moment you make the decision to go for it.
-
-The Athletic Software Engineering pedagogy is very rigorous, its beast mode training, but if you want to perform at your peak level then you must get uncomfortable. And boy am I 
-uncomfortable. It makes me question, did my other classes truly prepare me for this moment? Am I starting at a disadvantage already? What should I have been doing to prepare? I 
-enjoy the repetition in the athletic software engineering pedagogy. The idea of having to repeat the practice WOD repeatedly until you solve the problem in the given time, allows 
-me a way to measure my comprehension of the information and my ability to access and successfully apply what I learned. I am able to reflect on my strengths and weaknesses and 
-quickly assess what I really need to focus on. In other classes once I solved the problem I moved on and it took me longer than 8-min. But now when I look back, did doing it that
-way set me up for success?
+The Athletic Software Engineering pedagogy is very rigorous, its beast mode training, but if you want to perform at your peak level
+then you must get uncomfortable. The ever looming "DNF" haunts my sleep at the moment because it takes me time to formulate ideas and
+with the click of the timer my mind tends to go blank. But I believe in the process. I continue to repeat the practice WOD's until I 
+am able to solve the problem in the given time and have a designated 2-hour study slot every day. The Athletic Software Engineering 
+Pedagogy allows me a way to measure my comprehension of the information and my ability to access and successfully apply what I 
+learned. I am able to reflect on my strengths and weaknesses and quickly assess what I really need to focus on. 
