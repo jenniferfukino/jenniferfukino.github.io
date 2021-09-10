@@ -12,11 +12,11 @@ question was asked in a "not so smart way."
 
 ## Stop beating around the bush
 
-A smart question will demonstrate your thought process and effort in trying to find the solution, while displaying your newly acquired 
+A question asked in a "smart way" will demonstrate your thought process and effort in trying to find the solution, while displaying your newly acquired 
 knowledge from your failed attempts. The question will be clear and concise which communicates your acknowledgement and appreciation 
 of someone else's time. An example, found on Stack Overflow, that illustrates a smart question had a clear and concise subject line that 
 read: "redis: max number of clients reached." Next, in the post the questioner goes on to explain what the issue was, what he/she tried to do to 
-solve the problem, along with some thoughts on what they thought might be the problem, and attached code. Within nine minutes the question
+solve the problem, along with some thoughts on what he/she thought might be the problem, and attached code. Within nine minutes the question
 was answered and solved. The ability of the questioner to ask the question in a "smart way" proved pleasant and fruitful in the end.  
 
 Here is a link to the "smart way" [Stack Overflow](https://stackoverflow.com/questions/50910697/redis-max-number-of-clients-reached)
