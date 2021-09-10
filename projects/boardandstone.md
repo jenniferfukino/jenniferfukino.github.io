@@ -17,11 +17,14 @@ a pōhaku kuʻi ʻai (stone poi pounder) using natural materials gathered from t
 families were required to finish one poi board and one poi pounder. 
 
 When looking at the raw slab of wood and you have only an adze to carve it with, the task seems daunting. But what my family and I 
-learned was that we needed to move together as a unit to accomplish this intimidating task. After the initial scare, we found that 
-hitting a board with an adze and chipping away at a stone with a baby hammer was very therapeutic. Everyday we committed time to work
-on our board and stone. This helped us disconnect from all the noise in our lives and to reconnect to the commitment we made to complete
-this task. In the end, our determination and commitment not only to our project but to eachother produced a beautiful board and four poi 
-pounders.
+learned was that we needed to move together as a unit to accomplish this intimidating task. After the initial scare of manually carving
+a raw slab of wood, we found that hitting a board with an adze and chipping away at a stone with a baby hammer was very therapeutic. 
+Everyday we committed time to work on our board and stone. This helped us disconnect from all the noise in our lives and to reconnect to 
+the commitment we made to eachother in completing this task together. In the end, our determination and commitment not only to our project but 
+to eachother produced a beautiful board and four poi pounders.
+
+Aside from gaining a wealth of cultural knowledge and experience, I walked a way with a deeper appreciation and connection to my family and community.
+From this opportunity, I was able to cultivate meaningful relationships that have opened up numerous opportunities for me. 
 
 <img class="ui medium left floated rounded image" src="../images/board_stone.png">
 
