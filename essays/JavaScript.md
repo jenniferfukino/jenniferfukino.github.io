@@ -7,6 +7,8 @@ labels:
   - Software Engineering
   - Learning
 ---
+<img class="ui medium left floated rounded image" src="../images/dial-up.png">
+
 With no prior experience or knowledge of JavaScript, I did what any person would do in this day and age. I Googled it! And what I
 learned is that JavaScript initially began as a scripting language to validate client side input in the time of dial-up connection. 
 JavaScript has evolved into a programming language that is used to build modern web applications, enable dynamic interactivity and 
