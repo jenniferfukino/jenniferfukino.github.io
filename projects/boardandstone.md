@@ -23,8 +23,10 @@ Everyday we committed time to work on our board and stone. This helped us discon
 the commitment we made to eachother in completing this task together. In the end, our determination and commitment not only to our project but 
 to eachother produced a beautiful board and four poi pounders.
 
+<img class="ui medium left floated rounded image" src="../images/board_stone.png">
+
 Aside from gaining a wealth of cultural knowledge and experience, I walked a way with a deeper appreciation and connection to my family and community.
 From this opportunity, I was able to cultivate meaningful relationships that have opened up numerous opportunities for me. 
 
-<img class="ui medium left floated rounded image" src="../images/board_stone.png">
+
 
