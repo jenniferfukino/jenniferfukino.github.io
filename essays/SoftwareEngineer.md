@@ -16,14 +16,14 @@ its transformation into another silhouette. As the next five looks individually 
 by the metmorphose of each look. Hussein Chalayan was able to use microchips to create his innovative designs. If microchips can be added
 to garments, what else can be done? Software engineering provides a highway of different paths and right now I'm still undecided. I am 
 interested in designing a 3D body scanning app to help customers find their perfect fit, an A.I. program that allows anyone to design and 
-manufacture their own clothes, and technology infused textiles. Are these even possible? Like clothing sketches in my drawing book, I just 
-need to understand how to draft the pattern so I can cut and sew.  
+manufacture their own clothes, and technology infused textiles. Are these even possible? 
 
-# In five, four, three...
+At the moment, my dream of creating a technology infused textile is snapped back into prospective. In order to be successful as a software 
+engineer, the skills I hope to develop in the future are mastering the programming languages, having the ability to problem solve efficiently 
+and to gain more confidence in my programming skills. As for my experiences in the future, I am more focused on the present and the path 
+ahead of me. With more confidence and of course improved programmming skills, I will be more likely to apply for jobs and other 
+programming opportunities. Like clothing sketches in my drawing book, I just need to understand how to draft the pattern so I can cut
+and sew. 
 
-Music starts, lights go on , and my brain goes blank. Reflecting on my classes, computer and others, I was studying to make an 'A'. 
-The athletic software engineering pedagogy has really opened my eyes to my weaknesses. When underpressure I have not mastered Java, C++,
-and JavaScript which makes it very hard to become a software engineer. I need to master these languages and change how I approach
-learning in all of my classes. Aside from language mastery, the biggest thing I hope to gain is confidence in my programming skills. With 
-confidence and of course improved programming skills, I will be more likely to apply for internships, jobs, and other programming
-opportunities. 
+
+
