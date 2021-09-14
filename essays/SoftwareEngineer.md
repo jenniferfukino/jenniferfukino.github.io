@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-# A fashion designer can be a software engineer
+# A Fashion Designer can be a Software Engineer
 
 At Hussein Chalayan's Spring 2007 show, a model walks out onto the runaway with a Victorian-inspired gown and pauses in the middle of the
 stage hands by her side. Slowly her garment begins to open as if someone were undressing her. As she stands there, the garment continues 
@@ -16,10 +16,11 @@ its transformation into another silhouette. As the next five looks individually 
 by the metmorphose of each look. Hussein Chalayan was able to use microchips to create his innovative designs. If microchips can be added
 to garments, what else can be done? 
 
-Fashion isn't easy, but I get it. Honestly, I don't know just yet how I can incorporate fashion into software engineering. But I am determined
-and eager to learn of all the possiblities software engineering can provide. I am interested in designing a 3D body scanning app to help customers 
-find their perfect fit, an A.I. program that allows anyone to design and manufacture their own clothes, and technology infused textiles. Are these 
-even possible? There are so much possibilities in software engineering that I remain undecided in the path I will take. 
+Fashion isn't easy, but I get it. Honestly, I don't know how I can incorporate fashion into software engineering. I am interested in designing 
+a 3D body scanning app to help customers find their perfect fit, an A.I. program that allows anyone to design and manufacture their own
+clothes, and technology infused textiles. Are these even possible? Software engineering is intimidating. However, I remain unswayed and ever more
+eager and determined to learn about the many facets of software engineering. Undoubtedly, I remain focused in my aspiration to create a symbiotic
+relationship between my passion for fashion and technology. 
 
 At the moment, my dream of creating a technology infused textile is snapped back into perspective. The athletic software engineering pedagogy
 really opened my eyes to my strengths and a lot of my opportunities. In order to be a successful software engineer, the skills I hope to 
